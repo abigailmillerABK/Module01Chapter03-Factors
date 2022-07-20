@@ -1,3 +1,7 @@
+/*
+Author: Abigail Miller
+*/
+
 # include <iostream>
 
 void main() {
